@@ -81,6 +81,11 @@
       <artifactId>spring-boot-devtools</artifactId>
       <scope>runtime</scope>
     </dependency>
+      <dependency>
+          <groupId>org.springframework.boot</groupId>
+          <artifactId>spring-boot-autoconfigure</artifactId>
+          <version>1.5.9.RELEASE</version>
+      </dependency>
   </dependencies>
 
   <build>
